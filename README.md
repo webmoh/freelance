@@ -1,2 +1,3 @@
 # freelance
-portofolio 
+portfolio
+projects: Excel & SQL
